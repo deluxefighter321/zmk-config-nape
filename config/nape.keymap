@@ -214,8 +214,8 @@
 
         // Key1、2同時押しでスクロールレイヤーへ
 
-        combo_layer9 {
-            bindings = <&mo 10>;
+        www_back {
+            bindings = <&kp C_AC_BACK>;
             key-positions = <1 2>;
             timeout-ms = <50>;
         };
